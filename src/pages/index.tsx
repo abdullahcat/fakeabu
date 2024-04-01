@@ -19,14 +19,14 @@ const HomePage: React.FC = () => {
             <section className='text-black pt-[110px] min-h-screen bg-white'>
                 <article className="bg-blue-50 mx-5 bg-white   p-3 m-3  border-l-8   border-blue-300    ">
                     <div className='flex flex-row  space-x-4'>
-                        <img className='h-[150px] v-10' src="https://artwork.anghcdn.co/webp/?id=130425994&size=640" alt="" />
+                        <img className='h-[150px] v-10' src="https://r2.easyimg.io/r3z066uy7/bf64fcdf-dc6d-4e5a-b8a2-fe1fd9063e21.jpeg" alt="" />
                         <div className="flex items-center sm:gap-8">
 
 
                             <div className='space-y-3'>
 
                                 <p> 230213215 - Kenan Özçakır</p>
-                                <p className='text-sm'>Kimlik No: 12323314119
+                                <p className='text-sm'>Kimlik No: 10765694390
                                 </p>
                                 <p className='text-sm'>Akademik Program:</p>
                                 <select className='text-sm border border-gray' value={"selectedItem"}  >
