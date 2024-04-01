@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
 
                             <div className='space-y-3'>
 
-                                <p> 210213215 - Aytaç Doğan</p>
+                                <p> 230213215 - Kenan Özçakır</p>
                                 <p className='text-sm'>Kimlik No: 12323314119
                                 </p>
                                 <p className='text-sm'>Akademik Program:</p>
@@ -33,7 +33,7 @@ const HomePage: React.FC = () => {
                                     <option value="hukuk">Hukuk Fakültesi / Hukuk / Hukuk</option>
                                 </select>
 
-                                <p className='text-sm'>Akademik Danışman: George Michael
+                                <p className='text-sm'>Akademik Danışman: İrem Su Yüksel
                                 </p>
 
 
