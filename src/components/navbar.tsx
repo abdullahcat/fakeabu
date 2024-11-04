@@ -30,7 +30,7 @@ function Navbar() {
 
             <nav className="bg-white border-gray-100 dark:bg-gray-700">
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-2">
-                    <a href="https://flowbite.com" className="flex items-center space-x-3 rtl:space-x-reverse">
+                    <a href="" className="flex items-center space-x-3 rtl:space-x-reverse">
                         <img src="uniLogo.png" className="h-8" alt="Flowbite Logo" />
                         <span className="self-center text-sm   whitespace-nowrap dark:text-white">ANTALYA BİLİM ÜNİVERSİTESİ | Bilgi Sistemleri</span>
                     </a>
@@ -59,7 +59,7 @@ function Navbar() {
                                     data-dropdown-toggle="user-dropdown"
                                     data-dropdown-placement="bottom"
                                 >
-                                    <img className="w-5 h-7 rounded-full" src="https://r2.easyimg.io/r3z066uy7/bf64fcdf-dc6d-4e5a-b8a2-fe1fd9063e21.jpeg" alt="user photo" />
+                                    <img className="w-5 h-7 rounded-full" src="https://i.ibb.co/nL70K1s/IMG-6977.jpg" alt="user photo" />
                                 </button>
 
                                 {/* Dropdown button */}
