@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
 
                             <div className='space-y-3'>
 
-                                <p> 230213215 - Sabahaddin Efe Yücer</p>
+                                <p> 230213215 - Sabahattin Efe Yücer</p>
                                 <p className='text-sm'>Kimlik No: 10765694390
                                 </p>
                                 <p className='text-sm'>Akademik Program:</p>
