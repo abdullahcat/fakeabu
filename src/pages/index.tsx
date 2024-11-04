@@ -16,10 +16,10 @@ const HomePage: React.FC = () => {
             <Head>
                 <title>ANTALYA BİLİM ÜNİVERSİTESİ</title>
             </Head>
-            <section className='text-black pt-[110px] w-screen min-h-screen bg-white'>
+            <section className='text-black pt-[110px] w-full min-h-screen bg-white'>
                 <article className="bg-blue-50 mx-5 bg-white   p-3 m-3  border-l-8   border-blue-300    ">
                     <div className='flex flex-row  space-x-4'>
-                        <img className='h-[170px] v-10' src="https://i.ibb.co/nL70K1s/IMG-6977.jpg" alt="" />
+                        <img className='h-[150px] w-full' src="https://i.ibb.co/nL70K1s/IMG-6977.jpg" alt="" />
                         <div className="flex items-center sm:gap-8">
 
 
