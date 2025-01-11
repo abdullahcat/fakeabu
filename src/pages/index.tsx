@@ -19,13 +19,13 @@ const HomePage: React.FC = () => {
             <section className='text-black pt-[110px] w-full min-h-screen bg-white'>
                 <article className="bg-blue-50 mx-5 bg-white   p-3 m-3  border-l-8   border-blue-300    ">
                     <div className='flex flex-row  space-x-4'>
-                        <img className='h-[150px] w-full' src="https://i.ibb.co/nL70K1s/IMG-6977.jpg" alt="" />
+                        <img className='h-[150px] w-full' src="https://i.ibb.co/6JSJ5g5/68290-1697056482.webp" alt="" />
                         <div className="flex items-center sm:gap-8">
 
 
                             <div className='space-y-3'>
 
-                                <p> 230213215 - Sabahattin Efe Yücer</p>
+                                <p> 230213215 - Neymar da Silva Santos Júnior</p>
                                 <p className='text-sm'>Kimlik No: 10765694390
                                 </p>
                                 <p className='text-sm'>Akademik Program:</p>
