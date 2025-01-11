@@ -59,7 +59,7 @@ function Navbar() {
                                     data-dropdown-toggle="user-dropdown"
                                     data-dropdown-placement="bottom"
                                 >
-                                    <img className="w-5 h-7 rounded-full" src="https://i.ibb.co/nL70K1s/IMG-6977.jpg" alt="user photo" />
+                                    <img className="w-5 h-7 rounded-full" src="https://i.ibb.co/6JSJ5g5/68290-1697056482.webp" alt="user photo" />
                                 </button>
 
                                 {/* Dropdown button */}
